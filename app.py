@@ -17,8 +17,8 @@ data = {
     "Parameter": ["Peak Amplitude (dB)", "Duration (s)", "Rise Time (s)", "Peak Frequency (Hz)"],
     "CG Target": ["> -10", "< 2", "< 0.1", "< 200"],
     "Test 1 Value": [-21.76, 7.20, 1.709, 337.42],
-     "Test 2 Value": [-13.911, 29.49, 25.215, 146.166],
     "Status 1": ["❌ Too Low", "❌ Too Long", "❌ Too Slow", "❌ Too High"],
+     "Test 2 Value": [-13.911, 29.49, 25.215, 146.166],
     "Status 2": ["❌ Too Low", "❌ Too Long", "❌ Too Slow", "✅ Good"]
     
 }
